@@ -4,7 +4,7 @@ I'm a passionate **Software Engineer** based in Wisconsin with a focus on develo
 
 ### 🛠️ Technologies & Tools
 - **Languages**: JavaScript, Python, C#, HTML, CSS
-- **Frameworks & Libraries**: React, Node.js, Express, Three.js
+- **Frameworks & Libraries**: React, Node.js, .NET, Three.js
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Tools**: Git, Docker, Webpack, VSCode, Figma
 
