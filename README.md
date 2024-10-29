@@ -10,7 +10,7 @@ I'm a passionate **Software Engineer** based in Wisconsin with a focus on develo
 
 ### 🌱 Currently Exploring
 - 3D Web Development with **Three.js**
-- Expanding cloud infrastructure knowledge in **AWS**
+- Expanding cloud infrastructure knowledge in **Azure**
 - Refining my skills in **C#**
 
 ### 📚 Projects
