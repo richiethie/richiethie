@@ -15,7 +15,7 @@ I'm a passionate **Software Engineer** based in Wisconsin with a focus on develo
 
 ### 📚 Projects
 - [3D Portfolio](https://richiethie.com/): An interactive 3D experience showcasing my design and programming skills.
-- [Short Film Website](https://github.com/richiethie/film-project): A platform to share and explore short films with fellow creators.  **(Not live)**
+- [Short Film Website](https://filmshare.vercel.app/): A platform to share and explore short films with fellow creators.
 - [Cash Register Project](https://github.com/richiethie/cash-register-project): A web application designed to manage products and shopping cart functionality.
 - [Youtube Clone](https://github.com/richiethie/YoutubeClone): This is a clone of the YouTube homepage, created using React.
 
