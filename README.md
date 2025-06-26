@@ -3,7 +3,7 @@
 I'm a passionate **Software Engineer** based in Wisconsin with a focus on developing robust, efficient, and scalable software solutions. I enjoy working with modern technologies and continuously learning new skills to improve my craft. Whether it's frontend or backend development, I'm always eager to tackle complex challenges and bring innovative ideas to life.
 
 ### 🛠️ Technologies & Tools
-- **Languages**: JavaScript, Python, C#, HTML, CSS
+- **Languages**: TypeScript, Python, C#, Go
 - **Frameworks & Libraries**: React, Node.js, .NET, Three.js
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Tools**: Git, Docker, Webpack, VSCode, Figma
